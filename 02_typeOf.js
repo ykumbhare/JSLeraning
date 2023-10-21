@@ -1,0 +1,22 @@
+console.log("===Part 1-===");
+var bankName ;
+console.log("==before initialization==");
+console.log(bankName);
+console.log("==After initialization==");
+bankName = "SBI Bank" ;
+console.log("After initialization", bankName, typeof bankName);
+console.log("===Part 2===");
+var mark = '90%';
+console.log("percentage", typeof mark );
+console.log("===Part 2 before===");
+var isWorking ;
+console.log(isWorking, typeof isWorking);
+console.log("===Part 2 after===");
+console.log( isWorking, typeof isWorking);
+
+console.log("===part 3 a===");
+var totalCount= "Hundred and seven" ;
+console.log(totalCount, typeof totalCount);
+console.log("===part 3 b===");
+var totalCount = 107 ;
+console.log(totalCount, typeof totalCount);
